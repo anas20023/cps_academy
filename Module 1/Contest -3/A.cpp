@@ -26,6 +26,9 @@ int main()
     cin >> tc;
     while (tc--)
     {
+        int n;
+        cin >> n;
+        cout << n - 10 << endl;
     }
     return 0;
 }
