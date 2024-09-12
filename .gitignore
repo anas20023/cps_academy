@@ -1,0 +1,8 @@
+.cph
+/**/*.exe
+/**/*.o
+/**/*.bin
+node_modules
+outputf.out
+inputf.in
+test.cpp
